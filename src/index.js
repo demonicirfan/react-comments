@@ -35,13 +35,4 @@ const App = () => {
 
 ReactDOM.render(<App />, document.querySelector("#root"));
 
-/*
-    !How to use SEMANTIC UI
-commands
-?    semantic ui cdn --> copy paste the {semantic.min.css}  *already there dont worry in HTML file
 
-    !using FAKER JS
-commands
-?    $npm install --save faker
-
-*/
